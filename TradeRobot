@@ -1,1 +1,3 @@
-divideDivider=600,quantity=50
+divideDivider=600,
+quantity=50,
+sideOrderCount=12,
