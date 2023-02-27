@@ -1,3 +1,3 @@
 divideDivider=600,
-quantity=50,
-sideOrderCount=12,
+sideOrderCount=5,
+maxQuantityPerOrder=300
